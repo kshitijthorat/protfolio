@@ -130,7 +130,7 @@
       title: "Goosebumps",
       artist: "One Direction",
       reason: "It brings a nostalgic vibe with beautiful lyrics.",
-      image: "https://randomuser.me/api/portraits/women/44.jpg",
+      image: "https://i.scdn.co/image/ab67616d0000b273f08c5bcd4f7b3e2e327b4b0a",
       audio: "goosebumps.mp3",
       video: "travis_Scott.mp4"
     },
